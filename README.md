@@ -29,11 +29,19 @@ This project uses an Arduino Mega microcontroller to operate a motor and regulat
 
 To make it presentable, I laser cut two ovals out of thin birch, one for the base and one for the platform. In addition, I 3D printed a [storage compartment][2] for the hardware and spray painted the whole thing white. All of this is *optional*.
 
-![](./images/img1.jpg)
+<br/>
+
+![](./images/img1.png)
+
+<br/>
 
 Use the diagram below for assistance with wiring.
 
+<br/>
+
 ![](./images/img2.jpg)
+
+<br/>
 
 After that, download and open ***src/RotatingSneakerDisplay/RotatingSneakerDisplay.ino*** with the Arduino IDE, connect your microcontroller to the computer, and upload the program.
 
