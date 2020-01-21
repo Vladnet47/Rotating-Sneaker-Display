@@ -58,7 +58,7 @@ The platform will not spin initially - twist the rotary encoder to start the rot
 [1]: https://github.com/Vladnet47/Nike-Monitor
 [2]: ./model
 [3]: https://store.arduino.cc/usa/mega-2560-r3
-[4]: 
+[4]: https://americas.rsdelivers.com/product/parallax-inc/900-00005/parallax-inc-140-ma-servo-motor-4-6-v/7813058?cm_mmc=US-PLA-DS3A-_-google-_-PLA_US_EN_CatchAll_New-_-Catch+All-_-PRODUCT_GROUP&matchtype=&pla-710096640604&gclid=EAIaIQobChMI08GWuN-V5wIVdRh9Ch3wbghiEAQYASABEgIg5PD_BwE&gclsrc=aw.ds
 [5]: https://www.amazon.com/Maxmoral-Encoder-Degrees-Compatible-Development/dp/B07M631J1Q/ref=asc_df_B07M631J1Q/?tag=hyprod-20&linkCode=df0&hvadid=309795598953&hvpos=1o3&hvnetw=g&hvrand=13934315248319811334&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033301&hvtargid=pla-634614360951&psc=1&tag=&ref=&adgrpid=61053849109&hvpone=&hvptwo=&hvadid=309795598953&hvpos=1o3&hvnetw=g&hvrand=13934315248319811334&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033301&hvtargid=pla-634614360951
 [6]: https://www.arduino.cc/en/main/software
 [7]: https://playground.arduino.cc/Main/RotaryEncoders/
