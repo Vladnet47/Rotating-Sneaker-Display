@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Description](#Description)
 - [Prerequisites](#Prerequisites)
-- [How it Works](#How-it-Works)
+- [How to Use](#How-to-Use)
 - [Helpful Links](#Helpful-Links)
 
 <br/>
@@ -16,7 +16,7 @@ This rotating display supplemented the Capstone poster presentation for the [Nik
 <br/>
 
 ## Prerequisites
-In order to build one for yourself, 
+In order to build one for yourself, you should have access to the following items:
 - [Arduino Microcontroller][3]
 - [Motor][4]
 - [Rotary Encoder][5]
@@ -24,7 +24,7 @@ In order to build one for yourself,
 
 <br/>
 
-## How it Works
+## How to Use
 This project uses an Arduino Mega microcontroller to operate a motor and regulate it with a rotary encoder (like knobs used to control volume on car stereos). 
 
 To make it presentable, I laser cut two ovals out of thin birch, one for the base and one for the platform. In addition, I 3D printed a [storage compartment][2] for the hardware and spray painted the whole thing white. All of this is *optional*.
@@ -35,13 +35,18 @@ To make it presentable, I laser cut two ovals out of thin birch, one for the bas
 
 <br/>
 
-Use the diagram below for assistance with wiring.
+To set it up for yourself, seee the diagram below for assistance with wiring.
 
 <br/>
 
 ![](./images/img2.jpg)
 
 <br/>
+
+Next, clone the repository to your local machine.
+```bash
+git clone https://github.com/Vladnet47/Rotating-Sneaker-Display.git
+```
 
 After that, download and open ***src/RotatingSneakerDisplay/RotatingSneakerDisplay.ino*** with the Arduino IDE, connect your microcontroller to the computer, and upload the program.
 
